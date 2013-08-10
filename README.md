@@ -1,7 +1,4 @@
-PromtheusCM10_golfu
-===================
-
-Custom CM10 Oc kernel for htc desire C
+Cusstom CM10 Oc kernel for htc desire C
 
 
 Linux kernel release 3.x <http://kernel.org/>
