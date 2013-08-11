@@ -145,3 +145,4 @@ int __init golfu_wifi_init(void);
 #define GOLFU_GPIO_NFC_DL	(7)
 
 #endif /* GUARD */
+
